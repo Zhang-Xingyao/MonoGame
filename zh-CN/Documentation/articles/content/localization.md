@@ -1,6 +1,6 @@
 # 直播0922
 
-本地化是任何游戏的重要组成部分。While it can be possible to design a
+本地化是任何游戏的重要组成部分。虽然可以设计一个
 game that is region independent, its quite hard.At some point you will need to
 produce localized text and graphics.
 
