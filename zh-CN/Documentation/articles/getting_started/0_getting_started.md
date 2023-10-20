@@ -1,6 +1,6 @@
-# 111
+# 333
 
-111
+This section walks you through the basics of MonoGame and helps you create your first game.
 
 First, select the toolset and operating system you will be working with to create your first MonoGame project, then continue reading to understand the basic layout of a MonoGame project.
 
