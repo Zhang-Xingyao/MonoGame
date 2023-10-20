@@ -1,10 +1,8 @@
 # 入门
 
-This walks you through the basics of MonoGame and helps you create your first game experience.
-yu
-首先，选择您将用于创建第一个 MonoGame 项目的工具集和操作系统，然后继续阅读以了解 MonoGame 项目的基本布局。
+ceshi testceshi testceshi testceshi testceshi testceshi testceshi testceshi testvceshi testceshi testceshi test
 
-在本教程集结束时，您将拥有一个可以为您的目标平台构建的工作项目，并准备好解决您的后续步骤。
+By the end of this tutorial set, you will have a working project to build off of for your target platform and will be ready to tackle your the next step.
 
 ## 设置您的开发环境
 
