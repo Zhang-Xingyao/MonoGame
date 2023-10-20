@@ -2,7 +2,7 @@
 
 
 
-By the end of this tutorial set, you will have a working project to build off of for your target platform and will be ready to tackle your next steps.
+By the end of this tutorial set, you will have a working project to build off of for your target platform and will be ready to tackle your the next step.
 
 ## Setting up your development environment
 
