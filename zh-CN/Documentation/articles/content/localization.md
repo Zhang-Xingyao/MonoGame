@@ -1,6 +1,6 @@
 # 本土化
 
-本地化是任何游戏的重要组成部分。虽然可以设计一个
+本地化是任咋还new的重要组成部分。虽然可以设计一个
 不分地区的游戏，难度比较大。在某些时候你需要
 生成本地化的文本和图形。
 
@@ -24,7 +24,7 @@ main app projects.The Foo.resx file should have an Action of EmbeddedResouce and
 </EmbeddedResource>
 ```
 
-Add any string resources to that file.These are in the form of a Key/Value pair.You can use the built-in editor
+Add any string resources to that file.These are in the form of a Key/Value pair.-
 or manually edit the .resx file by hand.It's an xml file so you can view the contents easily.
 
 ```xml
