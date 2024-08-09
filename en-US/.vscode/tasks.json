@@ -2,7 +2,7 @@
     "version": "2.0.5",
     "tasks": [
         {
-            "label": "mgcb-editor-mac",
+            "label": "mgcb-editor-mac14分编辑没确认",
             "command": "dotnet",
             "type": "process",
             "args": [
